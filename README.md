@@ -1,1 +1,1 @@
-this project will use couple of design patterns for its implementation
+i will be using a couple of design patterns for this project
